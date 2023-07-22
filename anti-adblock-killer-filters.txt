@@ -1570,6 +1570,8 @@ p2pcast.tv#@##adblock
 @@||media.trafficjunky.net/js/holiday-promo.js$script,domain=youporn.com
 ! corporatecentral.com
 ! https://github.com/reek/anti-adblock-killer/issues/725
+kawai.pics###bmtjwukemjzewlgsgzbqydudwwjuzzdaymnjmmlmlpvcttmjvzqtqfamv
+kawai.pics##.bmtjwukemjzewlgsgzbqydudwwjuzzdaymnjmmlmlpvcttmjvzqtqfamv.udyeeplnzgyvmovnnjtnfjnnhgcvdjkzzuzxmwknwxzvnlczbwutqfamv
 corporatecentral.com#@##top_add
 corporatecentral.com#@#.adsbygoogle
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=corporatecentral.com
